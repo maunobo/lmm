@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 /**
- * @author Ioana Avirvarei GUI for login, register and chat page
+ * GUI for login, register and chat page
  */
 public class LoginView extends JFrame {
 
