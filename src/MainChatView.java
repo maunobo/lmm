@@ -3,8 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * @author mnb
- * @version 28 Feb 2018 | 23:00:25
+ * Main View for the Chat
  */
 
 public class MainChatView extends JPanel implements ActionListener {
