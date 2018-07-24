@@ -9,10 +9,13 @@ For the front end Java Swing is used, with Java in the back end and PostgreSQL i
 JDBC driver for the PostgreSQL, custom protocol for communication
 
 ###Chatroom 
+
 <img src="images/Chat.png" width="35%" height="35%">
 
 ###Login 
+
 <img src="images/Login.png" width="25%" height="25%">
 
 ###Register
+
 <img src="images/Register.png" width="25%" height="25%">
