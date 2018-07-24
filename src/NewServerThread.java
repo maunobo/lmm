@@ -8,11 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Initially created by Roman Gaev
- * 26.02.2018
  * Server thread for every single client
- * <p>
- * May the force be with you.
  */
 public class NewServerThread extends Thread {
     private ServerModel server;
