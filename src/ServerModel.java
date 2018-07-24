@@ -5,11 +5,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.Properties;
 /**
- * Initially created by Roman Gaev
- * 26.02.2018
  * Simple server
- * <p>
- * May the force be with you.
  */
 public class ServerModel extends Thread {
     private ArrayList<NewServerThread> threadPool = new ArrayList<NewServerThread>();
